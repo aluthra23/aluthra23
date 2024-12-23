@@ -6,5 +6,7 @@ I'm a **Computer Science** major specializing in **Data Science** at the **Unive
 Constantly exploring new technologies and methodologies to push the boundaries of what’s possible.  
 
 ## 📫 Connect with Me  
-- **Portfolio:** [[aluthra23.github.io/personal-website](https://aluthra23.github.io/personal-website/)](#)  
-- **LinkedIn:** [[linkedin.com/in/aravluthra](https://www.linkedin.com/in/arav-luthra)](#)  
+- **Portfolio:** [aravluthra.com](#)  
+- **LinkedIn:** [linkedin.com/in/aravluthra](#)  
+- **GitHub:** [github.com/aravluthra](#)  
+- **Twitter:** [twitter.com/aravluthra](#)  
